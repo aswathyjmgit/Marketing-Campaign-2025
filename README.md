@@ -24,5 +24,6 @@ Power BI – Data modeling, visualization, and interactive dashboard creation
 Applied appropriate visual types (bar charts, line charts, treemaps, combo charts) based on the business question.
 
 Added slicers for campaign, platform, and date to enable dynamic filtering and exploration.
-<img width="614" height="344" alt="image" src="https://github.com/user-attachments/assets/013f345a-1506-403b-b0aa-b21c4b6b7533" />
+<img width="605" height="339" alt="Page 1" src="https://github.com/user-attachments/assets/6c9f4d1f-eeba-46af-8fb8-3faac9c9ee0c" />
+
 <img width="614" height="344" alt="Page2" src="https://github.com/user-attachments/assets/e97ab5c7-ce9b-488e-a323-0524a6f6afee" />
